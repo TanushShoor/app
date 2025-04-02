@@ -5,6 +5,7 @@
     background-color: black;
     display : flex;
     flex-direction: column;
+    text-align: end;
     align-items: center;
     justify-content: center;
     color: white;
