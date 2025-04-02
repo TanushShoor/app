@@ -1,12 +1,16 @@
-*{
+body{
     background-color: rgba(255, 140, 0, 0.913);
+    margin: auto;
+    padding: 5%;
 }
 .container{
     background-color: black;
     display : flex;
     flex-direction: column;
-    text-align: end;
     align-items: center;
     justify-content: center;
     color: white;
+    margin: auto;
+    padding: 10%;
+    font-size: 100px;
 }
